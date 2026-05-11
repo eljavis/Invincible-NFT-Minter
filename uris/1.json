@@ -1,0 +1,25 @@
+{
+    "name": "Omni-Man #002",
+    "description": "Nolan Grayson, Earth's former premier protector. A pure Viltrumite warrior with centuries of combat experience.",
+    "image": "ipfs://bafybeidrkbxnc6sjmbhwdshlvagq5gj5pd3mdkudv35fxnlonvzbxu6d5u",
+    "attributes": [
+        {
+            "trait_type": "Character",
+            "value": "Omni-Man"
+        },
+        {
+            "trait_type": "Race",
+            "value": "Viltrumite"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Power Level",
+            "value": 95,
+            "max_value": 100
+        },
+        {
+            "trait_type": "Special Ability",
+            "value": "Advanced Combat Mastery"
+        }
+    ]
+}

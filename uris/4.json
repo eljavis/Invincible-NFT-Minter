@@ -1,0 +1,25 @@
+{
+    "name": "Tech-Jacket #005",
+    "description": "Zack Thompson, a human bonded with a Geldarian Tech-Jacket, one of the most versatile weapons in the universe.",
+    "image": "ipfs://bafybeigtv3c4rkhxu4knghgqqkqgssjvy6unxzoeodfui2dzzu46n2shce",
+    "attributes": [
+        {
+            "trait_type": "Character",
+            "value": "Tech-Jacket"
+        },
+        {
+            "trait_type": "Race",
+            "value": "Human (Geldarian Tech)"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Power Level",
+            "value": 85,
+            "max_value": 100
+        },
+        {
+            "trait_type": "Special Ability",
+            "value": "Technological Evolution"
+        }
+    ]
+}

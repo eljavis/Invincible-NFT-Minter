@@ -1,0 +1,25 @@
+{
+    "name": "Invincible #001",
+    "description": "Mark Grayson, the young hero of Earth. A Viltrumite hybrid with an indomitable will and extreme persistence.",
+    "image": "ipfs://bafybeifrqau4izho2trsaskiqg2wj6lbyp2d2qqbcuheskewo6jqj5vewy",
+    "attributes": [
+        {
+            "trait_type": "Character",
+            "value": "Invincible"
+        },
+        {
+            "trait_type": "Race",
+            "value": "Viltrumite Hybrid"
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Power Level",
+            "value": 90,
+            "max_value": 100
+        },
+        {
+            "trait_type": "Special Ability",
+            "value": "Unbreakable Resilience"
+        }
+    ]
+}
