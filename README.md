@@ -26,5 +26,3 @@ The contract is live and ready for interaction on the **Arbitrum** network. By c
 ---
 
 **"Being a hero is about more than just powers. It’s about being truly immutable."**
-
-**"Being a hero is about more than just powers. It’s about being truly immutable."**
